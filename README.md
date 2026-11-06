@@ -1,6 +1,3 @@
-This program was made in Python for a hackathon competition (3rd place). It calculates the probability of satellite collisions with nearby debris.
-
-
 **Features**
 - Real-time probability calculation for satellite-debris collision risk
 - Customizable parameters for debris size, speed, and density
